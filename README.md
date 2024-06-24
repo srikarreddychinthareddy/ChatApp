@@ -73,8 +73,6 @@ Start the Client
 ### Add or Remove users from group
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
 
-## Made By
 
-- [@Piyush-eon](https://github.com/piyush-eon)
 
   
